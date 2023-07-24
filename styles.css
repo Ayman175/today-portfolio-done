@@ -21,7 +21,7 @@ h2 {
 
 .half-width {
     width: 100%;
-    padding-left: 2%;
+    padding-left: 5%;
 }
 
 .half-width img {
@@ -40,14 +40,21 @@ h2 {
     width: 40%;
     margin-left: 5%;
     margin-right: 5%;
-    box-shadow: 10px 10px 30px gray;
     padding: 20px;
+    border-radius: 10px;
+        box-shadow: 10px 10px 40px gray;
 }
 
 #full-stack-developer {
-    border-left: 10px solid orange;
+    border-left: 7px solid orange;
 }
 
 #baby-web-developer {
-    border-left: 10px solid green;
+    border-left: 7px solid green;
+    }
+    
+    footer {
+        text-align: center;
+        margin-bottom: 50px;
+        font-style: normal;
 }

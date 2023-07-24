@@ -1,0 +1,53 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.half-width {
+    width: 100%;
+    padding-left: 2%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(green, yellow);
+    color: white;
+    font-weight: 450;
+    padding: 10px 40px;
+}
+
+.experience-item {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 30px gray;
+    padding: 20px;
+}
+
+#full-stack-developer {
+    border-left: 10px solid orange;
+}
+
+#baby-web-developer {
+    border-left: 10px solid green;
+}
